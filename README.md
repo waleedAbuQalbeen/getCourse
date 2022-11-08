@@ -1,1 +1,3 @@
 # getCourse
+
+## project notes
